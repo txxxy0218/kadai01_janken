@@ -1,7 +1,7 @@
 # kadai01_janken
 G's Academy2週目のじゃんけんアプリの課題
 
-# ①課題番号-プロダクト名
+## ①課題番号-プロダクト名
 
 01-じゃんけんアプリ
 
@@ -12,7 +12,7 @@ G's Academy2週目のじゃんけんアプリの課題
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+https://txxxy0218.github.io/kadai01_janken/
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
