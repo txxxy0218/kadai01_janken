@@ -1,0 +1,120 @@
+.zen-kaku-gothic-new-regular {
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.zen-kaku-gothic-new-medium {
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.zen-kaku-gothic-new-bold {
+    font-family: "Zen Kaku Gothic New", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+  
+
+body{
+    margin:0;
+    padding:0;
+    text-align:left;
+    font-size: 32px;
+}
+header{
+    background-color: #fff;
+    text-align: center;
+    padding: 32px;
+}
+main{
+    background-color: #FFF2F7;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+h1{
+    text-align: center;
+    font-size: 48px;
+}
+h2{
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 24px;
+}
+h3{
+    text-align: center;
+    font-size: 24px;
+}
+p{
+    font-size: 16px;
+    text-align: center;
+    color: #333333;
+}
+
+.icon{
+    width: 80px;
+    height: 80px;
+    border-radius:50%;
+    cursor : pointer;
+}
+
+.select {
+    gap: 24px;
+    display: flex;
+    justify-content: center;
+    margin-top: 16px;
+}
+
+.bijo-container{
+    width: fit-content;
+    margin: 0 auto;
+    padding: 40px;
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.my-bijo{
+    width: 400px;
+    gap: 24px
+}
+.pc-bijo{
+    width: 400px;
+    gap: 24px;
+}
+.my-view{
+    width: 400px;
+    height: 400px;
+    border: solid 8px #EF4F92;
+}
+.pc-view{
+    width: 400px;
+    height: 400px;
+    border: solid 8px #4D3268;
+}
+
+.result{
+    background-color: #EF4F92;
+}
+#judgment{
+    color: white;
+    font-size: 24px;
+    padding: 24px;
+}
+
+
+footer{
+    background-color: #454545;
+    width: 100%;
+    padding: 16px;
+    align-items: center;
+    /* position: absolute; */
+    /* bottom: 0; */
+}
+footer p {
+    font-size: 14px;
+    text-align: center;
+    color: white;
+}
+
